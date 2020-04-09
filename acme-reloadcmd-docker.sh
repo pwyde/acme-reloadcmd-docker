@@ -64,7 +64,7 @@ Options:
 
   -o, --ch-own         Change owner of the SSL certificate and private key
                        files.
-" >&2
+" >&1
 }
 
 # Print help if no argument is specified.
